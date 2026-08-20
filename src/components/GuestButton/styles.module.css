@@ -1,0 +1,45 @@
+.guestBtn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.guestBtn:hover {
+  transform: translateY(-2px);
+}
+
+.loggedIn {
+  background: #2c5364;
+  color: #fff;
+}
+
+.loggedIn:hover {
+  background: #1d3a47;
+}
+
+.loggedOut {
+  background: #c0392b;
+  color: #fff;
+}
+
+.loggedOut:hover {
+  background: #96281b;
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
