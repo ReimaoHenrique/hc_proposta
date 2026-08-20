@@ -85,35 +85,43 @@ const config = {
                 label: 'Pitch Deck',
                 to: '/docs/pitch-deck/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Pitch HC Guardian',
+                to: '/docs/master-plan/introducao',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Ecossistema',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'HC Guardian Edge',
+                to: '/docs/master-plan/ecossistema',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'RHINOS',
+                to: '/docs/master-plan/ecossistema',
+              },
+              {
+                label: 'ARGUS e SENTRY',
+                to: '/docs/master-plan/inteligencias-artificiais',
+              },
+            ],
+          },
+          {
+            title: 'Tecnologia',
+            items: [
+              {
+                label: 'Indução por Sobrepolos',
+                to: '/docs/pitch-deck/inducao-por-sobrepolos',
+              },
+              {
+                label: 'Digital Twin',
+                to: '/docs/master-plan/digital-twin',
+              },
+              {
+                label: 'Health Score e RUL',
+                to: '/docs/master-plan/health-score-rul',
               },
             ],
           },
