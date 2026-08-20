@@ -53,6 +53,10 @@ const config = {
     ],
   ],
 
+  clientModules: [
+    require.resolve('./src/auth-guard.js'),
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

@@ -1,55 +1,55 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  image: string;
   description: JSX.Element;
+  link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Engenharia Mecânica e Elétrica',
+    image: '/img/mecanica.jpg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A tecnologia de <strong>Indução por Sobrepolos</strong>: uma nova
+        arquitetura de máquina que busca maior potência em menos espaço, com
+        fluxo axial, duplo estator, controle térmico ativo e manutenção
+        modular.
       </>
     ),
+    link: '/docs/pitch-deck/intro',
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Software e Hardware — HC Guardian',
+    image: '/img/guardian_rs.jpg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        O ecossistema <strong>HC Guardian</strong>: firmware em Rust (STM32H7),
+        diagnóstico com RHINOS, IA preditiva ARGUS e SENTRY, digital twin e
+        monitoramento completo na nuvem.
       </>
     ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    link: '/docs/master-plan/introducao',
   },
 ];
 
-function Feature({Svg, title, description}: FeatureItem): JSX.Element {
+function Feature({title, image, description, link}: FeatureItem): JSX.Element {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img className={styles.featureImg} src={image} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        <Link className="button button--primary button--sm" to={link}>
+          Saiba mais
+        </Link>
       </div>
     </div>
   );
