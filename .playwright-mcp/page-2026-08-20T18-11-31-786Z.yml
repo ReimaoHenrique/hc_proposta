@@ -1,0 +1,181 @@
+- generic [ref=f4e2]:
+  - region:
+    - link "Skip to main content" [ref=f4e3] [cursor=pointer]:
+      - /url: "#"
+  - navigation [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - generic [ref=f4e6]:
+        - link "My Site Logo My Site" [ref=f4e7] [cursor=pointer]:
+          - /url: /
+          - img "My Site Logo" [ref=f4e9]
+          - generic [ref=f4e10]: My Site
+        - link "Tutorial" [ref=f4e11] [cursor=pointer]:
+          - /url: /docs/intro
+        - link "Blog" [ref=f4e12] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=f4e13]:
+        - link "GitHub" [ref=f4e14] [cursor=pointer]:
+          - /url: https://github.com/facebook/docusaurus
+        - button "Switch between dark and light mode (currently light mode)" [ref=f4e18] [cursor=pointer]
+  - generic [ref=f4e23]:
+    - complementary [ref=f4e24]:
+      - navigation [ref=f4e26]:
+        - list [ref=f4e27]:
+          - listitem [ref=f4e28]:
+            - link "Tutorial Intro" [ref=f4e29] [cursor=pointer]:
+              - /url: /docs/intro
+          - listitem [ref=f4e30]:
+            - generic [ref=f4e31]:
+              - link "Tutorial - Basics" [ref=f4e32] [cursor=pointer]:
+                - /url: /docs/category/tutorial---basics
+              - button "Toggle the collapsible sidebar category 'Tutorial - Basics'" [ref=f4e33] [cursor=pointer]
+          - listitem [ref=f4e34]:
+            - generic [ref=f4e35]:
+              - link "Pitch Deck HCTECH" [expanded] [ref=f4e36] [cursor=pointer]:
+                - /url: /docs/category/pitch-deck-hctech
+              - button "Toggle the collapsible sidebar category 'Pitch Deck HCTECH'" [ref=f4e37] [cursor=pointer]
+            - list [ref=f4e38]:
+              - listitem [ref=f4e39]:
+                - link "Introdução e Posicionamento Estratégico" [ref=f4e40] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/intro
+              - listitem [ref=f4e41]:
+                - link "Limitações da Tecnologia Atual" [ref=f4e42] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/limitacoes
+              - listitem [ref=f4e43]:
+                - link "A Resposta da HCTECH" [ref=f4e44] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/resposta-hctech
+              - listitem [ref=f4e45]:
+                - link "1. Indução por Sobrepolos" [ref=f4e46] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/inducao-por-sobrepolos
+              - listitem [ref=f4e47]:
+                - link "2. Duplo Estator e Dois Sistemas de Enrolamento" [ref=f4e48] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/duplo-estator
+              - listitem [ref=f4e49]:
+                - link "3. O Desafio Térmico do Fluxo Axial" [ref=f4e50] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/desafio-termico
+              - listitem [ref=f4e51]:
+                - link "4. Sistema Ativo de Troca de Calor" [ref=f4e52] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/sistema-ativo
+              - listitem [ref=f4e53]:
+                - link "5. Manutenção Modular — O Conceito Lego" [ref=f4e54] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/manutencao-modular
+              - listitem [ref=f4e55]:
+                - link "6. Produção Própria" [ref=f4e56] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/producao-propria
+              - listitem [ref=f4e57]:
+                - link "7. Engenharia de Validação e Ensaios" [ref=f4e58] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/engenharia-validacao
+              - listitem [ref=f4e59]:
+                - link "Uma Plataforma, Não Apenas uma Máquina" [ref=f4e60] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/plataforma
+              - listitem [ref=f4e61]:
+                - link "O Objetivo Final" [ref=f4e62] [cursor=pointer]:
+                  - /url: /docs/pitch-deck/objetivo-final
+          - listitem [ref=f4e63]:
+            - generic [ref=f4e64]:
+              - link "Tutorial - Extras" [ref=f4e65] [cursor=pointer]:
+                - /url: /docs/category/tutorial---extras
+              - button "Toggle the collapsible sidebar category 'Tutorial - Extras'" [ref=f4e66] [cursor=pointer]
+    - main [ref=f4e67]:
+      - generic [ref=f4e69]:
+        - generic [ref=f4e71]:
+          - article [ref=f4e72]:
+            - navigation "Breadcrumbs" [ref=f4e73]:
+              - list [ref=f4e74]:
+                - listitem [ref=f4e75]:
+                  - link "Home page" [ref=f4e76] [cursor=pointer]:
+                    - /url: /
+                - listitem [ref=f4e79]:
+                  - link "Pitch Deck HCTECH" [ref=f4e80] [cursor=pointer]:
+                    - /url: /docs/category/pitch-deck-hctech
+                - listitem [ref=f4e81]:
+                  - generic [ref=f4e82]: 2. Duplo Estator e Dois Sistemas de Enrolamento
+            - generic [ref=f4e83]:
+              - heading "2. Duplo Estator e Dois Sistemas de Enrolamento" [level=1] [ref=f4e85]
+              - heading [level=2] [ref=f4e86]:
+                - strong [ref=f4e87]: 2. DUPLO ESTATOR E DOIS SISTEMAS DE ENROLAMENTO
+                - link "#" [ref=f4e88] [cursor=pointer]:
+                  - /url: "#2-duplo-estator-e-dois-sistemas-de-enrolamento"
+              - separator [ref=f4e89]
+              - paragraph [ref=f4e90]:
+                - text: Um dos diferenciais da arquitetura proposta pela HCTECH é a utilização de
+                - strong [ref=f4e91]: dois estatores
+                - text: . Cada estator possui seu próprio sistema de enrolamento, permitindo que a máquina seja projetada para trabalhar com
+                - strong [ref=f4e92]: duas tensões de saída simultâneas
+                - text: ", conforme a configuração elétrica desenvolvida para cada aplicação. Isso abre possibilidades para aplicações que necessitam alimentar sistemas com diferentes níveis de tensão utilizando um único equipamento. A proposta busca reduzir a dependência de equipamentos adicionais de transformação de tensão em determinadas configurações."
+              - heading [level=3] [ref=f4e93]:
+                - strong [ref=f4e94]: "CONCEITO:"
+                - link "#" [ref=f4e95] [cursor=pointer]:
+                  - /url: "#conceito"
+              - paragraph [ref=f4e96]:
+                - strong [ref=f4e97]: UM ÚNICO EQUIPAMENTO
+              - paragraph [ref=f4e98]: ↓
+              - paragraph [ref=f4e99]:
+                - strong [ref=f4e100]: DOIS ESTATORES
+              - paragraph [ref=f4e101]: ↓
+              - paragraph [ref=f4e103]:
+                - strong [ref=f4e104]: DOIS SISTEMAS DE ENROLAMENTO
+              - paragraph [ref=f4e105]: ↓
+              - paragraph [ref=f4e106]:
+                - strong [ref=f4e107]: DUAS TENSÕES DISPONÍVEIS SIMULTANEAMENTE
+              - paragraph [ref=f4e108]: "O potencial impacto dessa arquitetura inclui:"
+              - list [ref=f4e109]:
+                - listitem [ref=f4e110]: Simplificação da instalação;
+                - listitem [ref=f4e111]: Redução da quantidade de equipamentos auxiliares;
+                - listitem [ref=f4e112]: Menor ocupação física do sistema;
+                - listitem [ref=f4e113]: Possibilidade de integração de diferentes cargas;
+                - listitem [ref=f4e114]: Maior flexibilidade operacional;
+                - listitem [ref=f4e115]: Simplificação da arquitetura elétrica em aplicações específicas.
+              - paragraph [ref=f4e116]: A configuração elétrica definitiva e os níveis de tensão serão definidos e validados de acordo com a aplicação do equipamento.
+            - link "Edit this page" [ref=f4e120] [cursor=pointer]:
+              - /url: https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pitch-deck/02-duplo-estator.md
+          - navigation "Docs pages navigation" [ref=f4e125]:
+            - link "Previous « 1. Indução por Sobrepolos" [ref=f4e126] [cursor=pointer]:
+              - /url: /docs/pitch-deck/inducao-por-sobrepolos
+              - generic [ref=f4e127]: Previous
+              - generic [ref=f4e128]: « 1. Indução por Sobrepolos
+            - link "Next 3. O Desafio Térmico do Fluxo Axial »" [ref=f4e129] [cursor=pointer]:
+              - /url: /docs/pitch-deck/desafio-termico
+              - generic [ref=f4e130]: Next
+              - generic [ref=f4e131]: 3. O Desafio Térmico do Fluxo Axial »
+        - list [ref=f4e134]:
+          - listitem [ref=f4e135]:
+            - link [ref=f4e136] [cursor=pointer]:
+              - /url: "#2-duplo-estator-e-dois-sistemas-de-enrolamento"
+              - strong [ref=f4e137]: 2. DUPLO ESTATOR E DOIS SISTEMAS DE ENROLAMENTO
+            - list [ref=f4e138]:
+              - listitem [ref=f4e139]:
+                - link [ref=f4e140] [cursor=pointer]:
+                  - /url: "#conceito"
+                  - strong [ref=f4e141]: "CONCEITO:"
+  - contentinfo [ref=f4e142]:
+    - generic [ref=f4e143]:
+      - generic [ref=f4e144]:
+        - generic [ref=f4e145]:
+          - generic [ref=f4e146]: Docs
+          - list [ref=f4e147]:
+            - listitem [ref=f4e148]:
+              - link "Tutorial" [ref=f4e149] [cursor=pointer]:
+                - /url: /docs/intro
+        - generic [ref=f4e150]:
+          - generic [ref=f4e151]: Community
+          - list [ref=f4e152]:
+            - listitem [ref=f4e153]:
+              - link "Stack Overflow" [ref=f4e154] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/docusaurus
+            - listitem [ref=f4e157]:
+              - link "Discord" [ref=f4e158] [cursor=pointer]:
+                - /url: https://discordapp.com/invite/docusaurus
+            - listitem [ref=f4e161]:
+              - link "Twitter" [ref=f4e162] [cursor=pointer]:
+                - /url: https://twitter.com/docusaurus
+        - generic [ref=f4e165]:
+          - generic [ref=f4e166]: More
+          - list [ref=f4e167]:
+            - listitem [ref=f4e168]:
+              - link "Blog" [ref=f4e169] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f4e170]:
+              - link "GitHub" [ref=f4e171] [cursor=pointer]:
+                - /url: https://github.com/facebook/docusaurus
+      - generic [ref=f4e174]: Copyright © 2026 My Project, Inc. Built with Docusaurus.

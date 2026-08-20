@@ -1,0 +1,72 @@
+- generic [ref=f11e2]:
+  - region:
+    - link "Skip to main content" [ref=f11e3] [cursor=pointer]:
+      - /url: "#"
+  - navigation [ref=f11e4]:
+    - generic [ref=f11e5]:
+      - generic [ref=f11e6]:
+        - link "HC Logo HC Project" [ref=f11e7] [cursor=pointer]:
+          - /url: /
+          - img "HC Logo" [ref=f11e9]
+          - generic [ref=f11e10]: HC Project
+        - link "Pitch Deck" [ref=f11e11] [cursor=pointer]:
+          - /url: /docs/pitch-deck/intro
+      - button "Switch between dark and light mode (currently light mode)" [ref=f11e14] [cursor=pointer]
+  - generic [ref=f11e18]:
+    - banner [ref=f11e19]:
+      - generic [ref=f11e20]:
+        - heading "HC Project" [level=1] [ref=f11e21]
+        - paragraph [ref=f11e22]: Dinosaurs are cool
+        - link "Pitch Deck HCTECH — 2026" [ref=f11e24] [cursor=pointer]:
+          - /url: /docs/pitch-deck/intro
+    - main [ref=f11e25]:
+      - generic [ref=f11e28]:
+        - generic [ref=f11e29]:
+          - img "Easy to Use" [ref=f11e31]
+          - generic [ref=f11e189]:
+            - heading "Easy to Use" [level=3] [ref=f11e190]
+            - paragraph [ref=f11e191]: Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
+        - generic [ref=f11e192]:
+          - img "Focus on What Matters" [ref=f11e194]
+          - generic [ref=f11e231]:
+            - heading "Focus on What Matters" [level=3] [ref=f11e232]
+            - paragraph [ref=f11e233]:
+              - text: Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the
+              - code [ref=f11e234]: docs
+              - text: directory.
+        - generic [ref=f11e235]:
+          - img "Powered by React" [ref=f11e237]
+          - generic [ref=f11e391]:
+            - heading "Powered by React" [level=3] [ref=f11e392]
+            - paragraph [ref=f11e393]: Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer.
+  - contentinfo [ref=f11e394]:
+    - generic [ref=f11e395]:
+      - generic [ref=f11e396]:
+        - generic [ref=f11e397]:
+          - generic [ref=f11e398]: Docs
+          - list [ref=f11e399]:
+            - listitem [ref=f11e400]:
+              - link "Pitch Deck" [ref=f11e401] [cursor=pointer]:
+                - /url: /docs/pitch-deck/intro
+        - generic [ref=f11e402]:
+          - generic [ref=f11e403]: Community
+          - list [ref=f11e404]:
+            - listitem [ref=f11e405]:
+              - link "Stack Overflow" [ref=f11e406] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/docusaurus
+            - listitem [ref=f11e409]:
+              - link "Discord" [ref=f11e410] [cursor=pointer]:
+                - /url: https://discordapp.com/invite/docusaurus
+            - listitem [ref=f11e413]:
+              - link "Twitter" [ref=f11e414] [cursor=pointer]:
+                - /url: https://twitter.com/docusaurus
+        - generic [ref=f11e417]:
+          - generic [ref=f11e418]: More
+          - list [ref=f11e419]:
+            - listitem [ref=f11e420]:
+              - link "Blog" [ref=f11e421] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f11e422]:
+              - link "GitHub" [ref=f11e423] [cursor=pointer]:
+                - /url: https://github.com/facebook/docusaurus
+      - generic [ref=f11e426]: Copyright © 2026 HC Project, Inc. Built with Docusaurus.

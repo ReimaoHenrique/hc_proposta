@@ -1,0 +1,72 @@
+- generic [ref=f8e2]:
+  - region:
+    - link "Skip to main content" [ref=f8e3] [cursor=pointer]:
+      - /url: "#"
+  - navigation [ref=f8e4]:
+    - generic [ref=f8e5]:
+      - generic [ref=f8e6]:
+        - link "My Site Logo My Site" [ref=f8e7] [cursor=pointer]:
+          - /url: /
+          - img "My Site Logo" [ref=f8e9]
+          - generic [ref=f8e10]: My Site
+        - link "Pitch Deck" [ref=f8e11] [cursor=pointer]:
+          - /url: /docs/pitch-deck/intro
+      - button "Switch between dark and light mode (currently light mode)" [ref=f8e14] [cursor=pointer]
+  - generic [ref=f8e18]:
+    - banner [ref=f8e19]:
+      - generic [ref=f8e20]:
+        - heading "My Site" [level=1] [ref=f8e21]
+        - paragraph [ref=f8e22]: Dinosaurs are cool
+        - link "Pitch Deck HCTECH — 2026" [ref=f8e24] [cursor=pointer]:
+          - /url: /docs/pitch-deck/intro
+    - main [ref=f8e25]:
+      - generic [ref=f8e28]:
+        - generic [ref=f8e29]:
+          - img "Easy to Use" [ref=f8e31]
+          - generic [ref=f8e189]:
+            - heading "Easy to Use" [level=3] [ref=f8e190]
+            - paragraph [ref=f8e191]: Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
+        - generic [ref=f8e192]:
+          - img "Focus on What Matters" [ref=f8e194]
+          - generic [ref=f8e231]:
+            - heading "Focus on What Matters" [level=3] [ref=f8e232]
+            - paragraph [ref=f8e233]:
+              - text: Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the
+              - code [ref=f8e234]: docs
+              - text: directory.
+        - generic [ref=f8e235]:
+          - img "Powered by React" [ref=f8e237]
+          - generic [ref=f8e391]:
+            - heading "Powered by React" [level=3] [ref=f8e392]
+            - paragraph [ref=f8e393]: Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer.
+  - contentinfo [ref=f8e394]:
+    - generic [ref=f8e395]:
+      - generic [ref=f8e396]:
+        - generic [ref=f8e397]:
+          - generic [ref=f8e398]: Docs
+          - list [ref=f8e399]:
+            - listitem [ref=f8e400]:
+              - link "Pitch Deck" [ref=f8e401] [cursor=pointer]:
+                - /url: /docs/pitch-deck/intro
+        - generic [ref=f8e402]:
+          - generic [ref=f8e403]: Community
+          - list [ref=f8e404]:
+            - listitem [ref=f8e405]:
+              - link "Stack Overflow" [ref=f8e406] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/docusaurus
+            - listitem [ref=f8e409]:
+              - link "Discord" [ref=f8e410] [cursor=pointer]:
+                - /url: https://discordapp.com/invite/docusaurus
+            - listitem [ref=f8e413]:
+              - link "Twitter" [ref=f8e414] [cursor=pointer]:
+                - /url: https://twitter.com/docusaurus
+        - generic [ref=f8e417]:
+          - generic [ref=f8e418]: More
+          - list [ref=f8e419]:
+            - listitem [ref=f8e420]:
+              - link "Blog" [ref=f8e421] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f8e422]:
+              - link "GitHub" [ref=f8e423] [cursor=pointer]:
+                - /url: https://github.com/facebook/docusaurus
+      - generic [ref=f8e426]: Copyright © 2026 My Project, Inc. Built with Docusaurus.

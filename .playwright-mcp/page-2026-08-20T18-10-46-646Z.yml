@@ -1,0 +1,140 @@
+- generic [ref=f2e2]:
+  - region:
+    - link "Skip to main content" [ref=f2e3] [cursor=pointer]:
+      - /url: "#"
+  - navigation [ref=f2e4]:
+    - generic [ref=f2e6]:
+      - button "Navigation bar toggle" [ref=f2e7] [cursor=pointer]
+      - link "My Site Logo My Site" [ref=f2e10] [cursor=pointer]:
+        - /url: /
+        - img "My Site Logo" [ref=f2e12]
+        - generic [ref=f2e13]: My Site
+  - main [ref=f2e16]:
+    - generic [ref=f2e20]:
+      - article [ref=f2e21]:
+        - navigation "Breadcrumbs" [ref=f2e22]:
+          - list [ref=f2e23]:
+            - listitem [ref=f2e24]:
+              - link "Home page" [ref=f2e25] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f2e28]:
+              - link "Pitch Deck HCTECH" [ref=f2e29] [cursor=pointer]:
+                - /url: /docs/category/pitch-deck-hctech
+            - listitem [ref=f2e30]:
+              - generic [ref=f2e31]: Introdução e Posicionamento Estratégico
+        - generic [ref=f2e32]:
+          - heading "Introdução e Posicionamento Estratégico" [level=1] [ref=f2e34]
+          - paragraph [ref=f2e35]:
+            - strong [ref=f2e36]: HCTECH
+          - paragraph [ref=f2e37]:
+            - strong [ref=f2e39]: NOVAS POSSIBILIDADES REDEFININDO OS LIMITES DA EFICIÊCIA .
+          - paragraph [ref=f2e40]: Pitch Deck Estratégico | 2026 Inovação Indução por Sobrepolos
+          - paragraph [ref=f2e42]:
+            - strong [ref=f2e43]: Posicionamento Estratégico Global
+          - separator [ref=f2e44]
+          - paragraph [ref=f2e45]:
+            - text: A
+            - strong [ref=f2e46]: HCTECH
+            - text: encontra-se atualmente em fase estratégica de desenvolvimento tecnológico, com foco na
+            - strong [ref=f2e47]: construção, usinagem, fabricação e montagem dos primeiros protótipos funcionais
+            - text: de sua tecnologia de
+            - strong [ref=f2e48]: Indução por Sobrepolos
+            - text: .
+          - paragraph [ref=f2e49]:
+            - text: O desafio da HCTECH vai além do desenvolvimento de um novo equipamento. Nossa proposta é atuar na interseção entre
+            - strong [ref=f2e50]: engenharia mecânica e elétrica avançada, novos materiais, manufatura industrial, automação, conectividade digital e inteligência artificial aplicada
+            - text: ", buscando desenvolver soluções capazes de ampliar os limites tradicionais de eficiência, desempenho, confiabilidade e manutenção dos sistemas de conversão de energia."
+          - paragraph [ref=f2e51]:
+            - text: A estratégia da empresa está orientada para mercados globais e aplicações de alto valor agregado. Inicialmente, a HCTECH pretende estruturar sua capacidade de manufatura em pontos estratégicos das Américas, com presença planejada no
+            - strong [ref=f2e52]: Paraguai
+            - text: e nos
+            - strong [ref=f2e53]: Estados Unidos
+            - text: .
+          - paragraph [ref=f2e54]:
+            - text: Essa estratégia busca combinar
+            - strong [ref=f2e55]: competitividade produtiva, eficiência tributária, proximidade logística, acesso a mercados maduros e capacidade de expansão internacional
+            - text: .
+          - paragraph [ref=f2e56]:
+            - text: "A visão da HCTECH é construir uma plataforma tecnológica capaz de integrar não apenas o equipamento principal, mas também todo o seu ecossistema operacional:"
+            - strong [ref=f2e57]: monitoramento, controle, manutenção modular, diagnóstico, conectividade e inteligência aplicada à operação dos ativos
+            - text: .
+          - paragraph [ref=f2e58]:
+            - strong [ref=f2e59]: Engenharia Avançada e Indução por Sobrepolos
+          - paragraph [ref=f2e60]:
+            - text: "---Desenvolvimento de uma nova arquitetura tecnológica baseada no conceito de"
+            - strong [ref=f2e62]: Indução por Sobrepolos
+            - text: ", explorando novas possibilidades para motores, geradores e sistemas de conversão de energia."
+          - paragraph [ref=f2e63]:
+            - strong [ref=f2e64]: "O objetivo é combinar soluções que combinem:"
+          - paragraph [ref=f2e65]:
+            - strong [ref=f2e66]: Pilares e Foco Operacional
+          - paragraph [ref=f2e67]:
+            - strong [ref=f2e68]: Manufatura Industrial e Desenvolvimento de Protótipos
+          - paragraph [ref=f2e69]: • Manufatura industrial 4.0 e IA aplicada . • Soluções integradas que geram valor em todo o ciclo operacional dos ativos.
+          - list [ref=f2e70]:
+            - listitem [ref=f2e71]:
+              - paragraph [ref=f2e72]: Maior eficiência na conversão de energia;
+            - listitem [ref=f2e73]:
+              - paragraph [ref=f2e74]: Melhor aproveitamento do espaço e da arquitetura eletromagnética;
+            - listitem [ref=f2e75]:
+              - paragraph [ref=f2e76]: Redução de perdas mecânicas, térmicas e magnéticas;
+            - listitem [ref=f2e77]:
+              - paragraph [ref=f2e78]: Maior capacidade de adaptação a diferentes aplicações;
+            - listitem [ref=f2e79]:
+              - paragraph [ref=f2e80]: Evolução contínua através da validação dos protótipos.
+            - listitem [ref=f2e81]:
+              - paragraph [ref=f2e82]: Usinagem de componentes;
+            - listitem [ref=f2e83]:
+              - paragraph [ref=f2e84]: Fabricação e montagem das estruturas mecânicas;
+            - listitem [ref=f2e85]:
+              - paragraph [ref=f2e86]: Implementação dos sistemas magnéticos;
+            - listitem [ref=f2e87]:
+              - paragraph [ref=f2e88]: Construção de módulos e componentes eletrônicos;
+            - listitem [ref=f2e89]:
+              - paragraph [ref=f2e90]: Aplicação do sistemas de excitação e controle;
+            - listitem [ref=f2e91]:
+              - paragraph [ref=f2e92]: Montagem dos primeiros protótipos funcionais;
+            - listitem [ref=f2e93]:
+              - paragraph [ref=f2e94]: Criação de bancadas e processos para testes e validação.
+        - link "Edit this page" [ref=f2e98] [cursor=pointer]:
+          - /url: https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pitch-deck/intro.md
+      - navigation "Docs pages navigation" [ref=f2e102]:
+        - link "Previous « 7. Engenharia de Validação e Ensaios" [ref=f2e103] [cursor=pointer]:
+          - /url: /docs/pitch-deck/engenharia-validacao
+          - generic [ref=f2e104]: Previous
+          - generic [ref=f2e105]: « 7. Engenharia de Validação e Ensaios
+        - link "Next Limitações da Tecnologia Atual »" [ref=f2e106] [cursor=pointer]:
+          - /url: /docs/pitch-deck/limitacoes
+          - generic [ref=f2e107]: Next
+          - generic [ref=f2e108]: Limitações da Tecnologia Atual »
+  - contentinfo [ref=f2e109]:
+    - generic [ref=f2e110]:
+      - generic [ref=f2e111]:
+        - generic [ref=f2e112]:
+          - generic [ref=f2e113]: Docs
+          - list [ref=f2e114]:
+            - listitem [ref=f2e115]:
+              - link "Tutorial" [ref=f2e116] [cursor=pointer]:
+                - /url: /docs/intro
+        - generic [ref=f2e117]:
+          - generic [ref=f2e118]: Community
+          - list [ref=f2e119]:
+            - listitem [ref=f2e120]:
+              - link "Stack Overflow" [ref=f2e121] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/docusaurus
+            - listitem [ref=f2e124]:
+              - link "Discord" [ref=f2e125] [cursor=pointer]:
+                - /url: https://discordapp.com/invite/docusaurus
+            - listitem [ref=f2e128]:
+              - link "Twitter" [ref=f2e129] [cursor=pointer]:
+                - /url: https://twitter.com/docusaurus
+        - generic [ref=f2e132]:
+          - generic [ref=f2e133]: More
+          - list [ref=f2e134]:
+            - listitem [ref=f2e135]:
+              - link "Blog" [ref=f2e136] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f2e137]:
+              - link "GitHub" [ref=f2e138] [cursor=pointer]:
+                - /url: https://github.com/facebook/docusaurus
+      - generic [ref=f2e141]: Copyright © 2026 My Project, Inc. Built with Docusaurus.

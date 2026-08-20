@@ -1,0 +1,214 @@
+- generic [ref=f13e2]:
+  - region:
+    - link "Skip to main content" [ref=f13e3] [cursor=pointer]:
+      - /url: "#"
+  - navigation [ref=f13e4]:
+    - generic [ref=f13e5]:
+      - generic [ref=f13e6]:
+        - link "HC Logo HC Project" [ref=f13e7] [cursor=pointer]:
+          - /url: /
+          - img "HC Logo" [ref=f13e9]
+          - generic [ref=f13e10]: HC Project
+        - link "Pitch Deck" [ref=f13e11] [cursor=pointer]:
+          - /url: /docs/pitch-deck/intro
+      - button "Switch between dark and light mode (currently light mode)" [ref=f13e14] [cursor=pointer]
+  - generic [ref=f13e19]:
+    - complementary [ref=f13e20]:
+      - navigation [ref=f13e22]:
+        - list [ref=f13e23]:
+          - listitem [ref=f13e24]:
+            - generic [ref=f13e25]:
+              - link "Pitch Deck HCTECH" [ref=f13e26] [cursor=pointer]:
+                - /url: /docs/category/pitch-deck-hctech
+              - button "Toggle the collapsible sidebar category 'Pitch Deck HCTECH'" [ref=f13e27] [cursor=pointer]
+          - listitem [ref=f13e28]:
+            - generic [ref=f13e29]:
+              - link "Master Plan HC" [expanded] [ref=f13e30] [cursor=pointer]:
+                - /url: /docs/category/master-plan-hc
+              - button "Toggle the collapsible sidebar category 'Master Plan HC'" [ref=f13e31] [cursor=pointer]
+            - list [ref=f13e32]:
+              - listitem [ref=f13e33]:
+                - link "Introdução e Visão Geral" [ref=f13e34] [cursor=pointer]:
+                  - /url: /docs/master-plan/introducao
+              - listitem [ref=f13e35]:
+                - link "Ecossistema HC Guardian" [ref=f13e36] [cursor=pointer]:
+                  - /url: /docs/master-plan/ecossistema
+              - listitem [ref=f13e37]:
+                - link "Inteligências Artificiais — ARGUS e SENTRY" [ref=f13e38] [cursor=pointer]:
+                  - /url: /docs/master-plan/inteligencias-artificiais
+              - listitem [ref=f13e39]:
+                - link "Objetivo do Negócio" [ref=f13e40] [cursor=pointer]:
+                  - /url: /docs/master-plan/objetivo-do-negocio
+              - listitem [ref=f13e41]:
+                - link "Modelo de Negócio" [ref=f13e42] [cursor=pointer]:
+                  - /url: /docs/master-plan/modelo-de-negocio
+              - listitem [ref=f13e43]:
+                - link "Mercado e Concorrência" [ref=f13e44] [cursor=pointer]:
+                  - /url: /docs/master-plan/mercado
+              - listitem [ref=f13e45]:
+                - link "Roadmap" [ref=f13e46] [cursor=pointer]:
+                  - /url: /docs/master-plan/roadmap
+              - listitem [ref=f13e47]:
+                - link "Arquitetura Técnica e Conectividade" [ref=f13e48] [cursor=pointer]:
+                  - /url: /docs/master-plan/arquitetura-tecnica
+              - listitem [ref=f13e49]:
+                - link "Arquitetura de IA" [ref=f13e50] [cursor=pointer]:
+                  - /url: /docs/master-plan/arquitetura-de-ia
+              - listitem [ref=f13e51]:
+                - link "Plano Executivo e Riscos" [ref=f13e52] [cursor=pointer]:
+                  - /url: /docs/master-plan/plano-executivo
+              - listitem [ref=f13e53]:
+                - link "Moat Tecnológico e Digital Twin" [ref=f13e54] [cursor=pointer]:
+                  - /url: /docs/master-plan/digital-twin
+              - listitem [ref=f13e55]:
+                - link "Efeito Colmeia" [ref=f13e56] [cursor=pointer]:
+                  - /url: /docs/master-plan/efeito-colmeia
+              - listitem [ref=f13e57]:
+                - link "Health Score e RUL" [ref=f13e58] [cursor=pointer]:
+                  - /url: /docs/master-plan/health-score-rul
+              - listitem [ref=f13e59]:
+                - link "Mercado Futuro e Visão de Longo Prazo" [ref=f13e60] [cursor=pointer]:
+                  - /url: /docs/master-plan/mercado-futuro
+    - main [ref=f13e61]:
+      - generic [ref=f13e63]:
+        - generic [ref=f13e65]:
+          - article [ref=f13e66]:
+            - navigation "Breadcrumbs" [ref=f13e67]:
+              - list [ref=f13e68]:
+                - listitem [ref=f13e69]:
+                  - link "Home page" [ref=f13e70] [cursor=pointer]:
+                    - /url: /
+                - listitem [ref=f13e73]:
+                  - link "Master Plan HC" [ref=f13e74] [cursor=pointer]:
+                    - /url: /docs/category/master-plan-hc
+                - listitem [ref=f13e75]:
+                  - generic [ref=f13e76]: Introdução e Visão Geral
+            - generic [ref=f13e77]:
+              - heading "Introdução e Visão Geral" [level=1] [ref=f13e79]
+              - heading [level=2] [ref=f13e80]:
+                - text: Empresa HC
+                - link "#" [ref=f13e81] [cursor=pointer]:
+                  - /url: "#empresa-hc"
+              - paragraph [ref=f13e82]:
+                - text: A
+                - strong [ref=f13e83]: HC
+                - text: é uma empresa de tecnologia industrial (Industrial AI + IoT + SaaS + Hardware) com um ecossistema próprio de monitoramento, manutenção preditiva e inteligência artificial aplicada à geração de energia.
+              - heading [level=3] [ref=f13e84]:
+                - text: Missão
+                - link "#" [ref=f13e85] [cursor=pointer]:
+                  - /url: "#missão"
+              - paragraph [ref=f13e86]:
+                - text: Transformar geradores elétricos em ativos inteligentes capazes de
+                - strong [ref=f13e87]: prever falhas antes que ocorram
+                - text: ", reduzindo custos operacionais, aumentando disponibilidade e criando um"
+                - strong [ref=f13e88]: histórico digital permanente
+                - text: de cada equipamento.
+              - heading [level=3] [ref=f13e89]:
+                - text: Visão
+                - link "#" [ref=f13e90] [cursor=pointer]:
+                  - /url: "#visão"
+              - paragraph [ref=f13e91]:
+                - text: Ser a principal empresa
+                - strong [ref=f13e92]: latino-americana
+                - text: de monitoramento, manutenção preditiva e inteligência artificial aplicada a geração de energia.
+              - heading [level=2] [ref=f13e93]:
+                - text: O que é este documento
+                - link "#" [ref=f13e94] [cursor=pointer]:
+                  - /url: "#o-que-é-este-documento"
+              - paragraph [ref=f13e95]: "Este Master Plan é o plano mestre completo da HC, produzido por um grupo multidisciplinar formado por:"
+              - list [ref=f13e96]:
+                - listitem [ref=f13e97]: CEO de empresa de tecnologia industrial
+                - listitem [ref=f13e98]: CTO especialista em Rust
+                - listitem [ref=f13e99]: Arquiteto de sistemas distribuídos
+                - listitem [ref=f13e100]: Engenheiro de IoT Industrial
+                - listitem [ref=f13e101]: Especialista em IA preditiva
+                - listitem [ref=f13e102]: Especialista em manutenção preditiva
+                - listitem [ref=f13e103]: Especialista em geradores elétricos
+                - listitem [ref=f13e104]: Especialista em SaaS B2B
+                - listitem [ref=f13e105]: Especialista em Venture Capital
+                - listitem [ref=f13e106]: Especialista em Estratégia Empresarial
+              - heading [level=2] [ref=f13e107]:
+                - text: Visão geral do ecossistema
+                - link "#" [ref=f13e108] [cursor=pointer]:
+                  - /url: "#visão-geral-do-ecossistema"
+              - paragraph [ref=f13e109]:
+                - text: O
+                - strong [ref=f13e110]: HC Guardian
+                - text: é um ecossistema composto por hardware, software, inteligência artificial e infraestrutura cloud.
+              - list [ref=f13e111]:
+                - listitem [ref=f13e112]:
+                  - text: Cada gerador se torna um
+                  - strong [ref=f13e113]: nó inteligente conectado
+                  - text: .
+                - listitem [ref=f13e114]: Todos os dados são enviados para a nuvem e processados continuamente.
+                - listitem [ref=f13e115]:
+                  - text: O sistema registra
+                  - strong [ref=f13e116]: toda a vida útil
+                  - text: do equipamento desde a primeira partida.
+                - listitem [ref=f13e117]:
+                  - text: Cada evento operacional se torna parte do
+                  - strong [ref=f13e118]: histórico permanente
+                  - text: daquele ativo.
+              - paragraph [ref=f13e119]:
+                - text: O diferencial da HC não é o hardware. O verdadeiro valor está no
+                - strong [ref=f13e120]: gêmeo digital (digital twin)
+                - text: "de cada gerador: um histórico completo do ativo desde o primeiro dia, enquanto a IA de frota aprende com todos os equipamentos e a IA unitária aprende com cada máquina individualmente."
+            - link "Edit this page" [ref=f13e124] [cursor=pointer]:
+              - /url: https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/master-plan/introducao.md
+          - navigation "Docs pages navigation" [ref=f13e129]:
+            - link "Previous « Master Plan HC" [ref=f13e130] [cursor=pointer]:
+              - /url: /docs/category/master-plan-hc
+              - generic [ref=f13e131]: Previous
+              - generic [ref=f13e132]: « Master Plan HC
+            - link "Next Ecossistema HC Guardian »" [ref=f13e133] [cursor=pointer]:
+              - /url: /docs/master-plan/ecossistema
+              - generic [ref=f13e134]: Next
+              - generic [ref=f13e135]: Ecossistema HC Guardian »
+        - list [ref=f13e138]:
+          - listitem [ref=f13e139]:
+            - link "Empresa HC" [ref=f13e140] [cursor=pointer]:
+              - /url: "#empresa-hc"
+            - list [ref=f13e141]:
+              - listitem [ref=f13e142]:
+                - link "Missão" [ref=f13e143] [cursor=pointer]:
+                  - /url: "#missão"
+              - listitem [ref=f13e144]:
+                - link "Visão" [ref=f13e145] [cursor=pointer]:
+                  - /url: "#visão"
+          - listitem [ref=f13e146]:
+            - link "O que é este documento" [ref=f13e147] [cursor=pointer]:
+              - /url: "#o-que-é-este-documento"
+          - listitem [ref=f13e148]:
+            - link "Visão geral do ecossistema" [ref=f13e149] [cursor=pointer]:
+              - /url: "#visão-geral-do-ecossistema"
+  - contentinfo [ref=f13e150]:
+    - generic [ref=f13e151]:
+      - generic [ref=f13e152]:
+        - generic [ref=f13e153]:
+          - generic [ref=f13e154]: Docs
+          - list [ref=f13e155]:
+            - listitem [ref=f13e156]:
+              - link "Pitch Deck" [ref=f13e157] [cursor=pointer]:
+                - /url: /docs/pitch-deck/intro
+        - generic [ref=f13e158]:
+          - generic [ref=f13e159]: Community
+          - list [ref=f13e160]:
+            - listitem [ref=f13e161]:
+              - link "Stack Overflow" [ref=f13e162] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/docusaurus
+            - listitem [ref=f13e165]:
+              - link "Discord" [ref=f13e166] [cursor=pointer]:
+                - /url: https://discordapp.com/invite/docusaurus
+            - listitem [ref=f13e169]:
+              - link "Twitter" [ref=f13e170] [cursor=pointer]:
+                - /url: https://twitter.com/docusaurus
+        - generic [ref=f13e173]:
+          - generic [ref=f13e174]: More
+          - list [ref=f13e175]:
+            - listitem [ref=f13e176]:
+              - link "Blog" [ref=f13e177] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f13e178]:
+              - link "GitHub" [ref=f13e179] [cursor=pointer]:
+                - /url: https://github.com/facebook/docusaurus
+      - generic [ref=f13e182]: Copyright © 2026 HC Project, Inc. Built with Docusaurus.
