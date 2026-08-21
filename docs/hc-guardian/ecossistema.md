@@ -10,6 +10,32 @@ O **HC Guardian** é um ecossistema composto por hardware, software, inteligênc
 
 ## Componentes
 
+### RHINOS
+
+Rust Hybrid Engine for Intelligent Network and OBD2 Systems.
+
+Software desktop de diagnóstico.
+
+**Tecnologias:**
+- Rust
+- Tauri
+
+**Funções:**
+- Diagnóstico avançado
+- Configuração
+- Calibração
+- Atualização
+- Monitoramento local
+
+### ARGUS e SENTRY
+
+IA preditiva integrada ao ecossistema HC Guardian:
+
+- **ARGUS**: IA de colmeia — observa a frota inteira, identificando padrões e anomalias em múltiplos geradores.
+- **SENTRY**: IA unitária — observa cada gerador individualmente, monitorando condições operacionais em tempo real.
+
+**Conectividade:** Ambos se comunicam com o HC Guardian Edge e a HC Guardian Cloud, integrando-se ao histórico permanente de cada equipamento.
+
 ### HC Guardian Edge
 
 Hardware embarcado instalado dentro do gerador.
