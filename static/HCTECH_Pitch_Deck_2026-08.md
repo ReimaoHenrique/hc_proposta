@@ -1,6 +1,6 @@
 __                        HCTECH__
 
-![](/img/pitch/pitch-00.jpeg)__NOVAS POSSIBILIDADES REDEFININDO OS LIMITES DA EFICIÊCIA \.__
+![](/img/logo-hc.jpeg)__NOVAS POSSIBILIDADES REDEFININDO OS LIMITES DA EFICIÊCIA \.__
 
 ![](/img/pitch/pitch-01.png)Pitch Deck Estratégico | 2026  
 Inovação Indução por Sobrepolos

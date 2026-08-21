@@ -17,7 +17,7 @@ function HomepageHeader(): JSX.Element {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/pitch-deck/intro">
+            to="/docs/hc-generators/intro">
             Pitch Deck HCTECH — 2026
           </Link>
         </div>

@@ -69,7 +69,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'pitch-deck/intro',
+            docId: 'hc-generators/intro',
             position: 'left',
             label: 'Pitch Deck',
           },
@@ -83,11 +83,11 @@ const config = {
             items: [
               {
                 label: 'Pitch Deck',
-                to: '/docs/pitch-deck/intro',
+                to: '/docs/hc-generators/intro',
               },
-              {
+{
                 label: 'Pitch HC Guardian',
-                to: '/docs/master-plan/introducao',
+                to: '/docs/hc-guardian/introducao',
               },
             ],
           },
@@ -96,15 +96,15 @@ const config = {
             items: [
               {
                 label: 'HC Guardian Edge',
-                to: '/docs/master-plan/ecossistema',
+                to: '/docs/hc-guardian/ecossistema',
               },
               {
                 label: 'RHINOS',
-                to: '/docs/master-plan/ecossistema',
+                to: '/docs/hc-guardian/ecossistema',
               },
               {
                 label: 'ARGUS e SENTRY',
-                to: '/docs/master-plan/inteligencias-artificiais',
+                to: '/docs/hc-guardian/inteligencias-artificiais',
               },
             ],
           },
@@ -113,15 +113,15 @@ const config = {
             items: [
               {
                 label: 'Indução por Sobrepolos',
-                to: '/docs/pitch-deck/inducao-por-sobrepolos',
+                to: '/docs/hc-generators/inducao-por-sobrepolos',
               },
               {
                 label: 'Digital Twin',
-                to: '/docs/master-plan/digital-twin',
+                to: '/docs/hc-guardian/digital-twin',
               },
               {
                 label: 'Health Score e RUL',
-                to: '/docs/master-plan/health-score-rul',
+                to: '/docs/hc-guardian/health-score-rul',
               },
             ],
           },

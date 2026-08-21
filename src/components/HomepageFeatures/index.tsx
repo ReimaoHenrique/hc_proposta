@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
         modular.
       </>
     ),
-    link: '/docs/pitch-deck/intro',
+    link: '/docs/hc-generators/intro',
   },
   {
     title: 'Software e Hardware — HC Guardian',
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
         monitoramento completo na nuvem.
       </>
     ),
-    link: '/docs/master-plan/introducao',
+    link: '/docs/hc-guardian/introducao',
   },
 ];
 
