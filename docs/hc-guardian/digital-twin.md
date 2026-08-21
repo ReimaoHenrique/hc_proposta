@@ -1,19 +1,19 @@
 ---
-title: Moat Tecnológico e Digital Twin
-description: "O principal ativo da HC: o histórico digital permanente de cada gerador."
+title: Moat Tecnológico e Digital Twin do HC Guardian
+description: "O principal ativo da HC Guardian: o histórico digital permanente de cada gerador."
 sidebar_position: 11
 ---
 
 ## Vantagem competitiva estratégica
 
-O principal ativo da HC **não é o hardware** — é o banco de conhecimento acumulado:
+O principal ativo da **HC Guardian** **não é o hardware** — é o banco de conhecimento acumulado:
 
 - Base histórica de dados
 - Modelos de IA treinados
 - Digital Twins acumulados
 - Conhecimento operacional agregado
 
-Investidores, parceiros e clientes industriais valorizam mais o banco de conhecimento acumulado do que o hardware em si.
+Investidores, parceiros e clientes industriais valorizam mais o banco de conhecimento acumulado da **HC Guardian** do que o hardware em si.
 
 ## Digital Twin Permanente
 
